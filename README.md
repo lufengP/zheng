@@ -22,7 +22,6 @@ zheng
 ├── zheng-common -- SSM框架公共模块
 ├── zheng-admin -- 后台管理模板
 ├── zheng-ui -- 前台thymeleaf模板[端口:1000]
-├── zheng-config -- 配置中心[端口:1001]
 ├── zheng-upms -- 用户权限管理系统
 |    ├── zheng-upms-common -- upms系统公共模块
 |    ├── zheng-upms-dao -- 代码生成模块，无需开发
